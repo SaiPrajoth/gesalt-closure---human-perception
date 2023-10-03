@@ -1,0 +1,15 @@
+working of the code
+given are the input and output values of corresponding input values
+
+
+input : If Yuo aer Albe To Raed Tihs
+output : if you are able to read this
+
+input : The rset can be a toatl mses
+output : the rest can be a total mess
+
+input : the huamn mnid deos not raed ervey lteter by istlef
+output : human mind does not read every letter by itself
+
+input : Three were two gerat dyas in ym lief
+ouput : there were two great days in my life
