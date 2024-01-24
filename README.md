@@ -88,5 +88,3 @@ Output: "there were two great days in my life"
 Feel free to explore and experiment with the script to understand word permutations and their impact on readability.
 
 --- 
-
-Customize the README file according to your preferences and include any additional information that might be helpful for users or developers interacting with your Python script.
