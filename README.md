@@ -1,4 +1,3 @@
-Certainly! Below is a template for a README file that explains the Python code and provides examples of its input and output values.
 
 ---
 
